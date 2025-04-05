@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "cicd-6051c",
+    "goat": "cicd-6051c"
+  },
+  "targets": {},
+  "etags": {}
 }
